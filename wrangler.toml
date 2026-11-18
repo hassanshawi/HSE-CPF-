@@ -1,0 +1,10 @@
+name = "safety-register"
+main = "src/worker.js"
+compatibility_date = "2025-01-01"
+
+[assets]
+directory = "./public"
+
+[[kv_namespaces]]
+binding = "REG"
+id = "3ccd73595a91486fbba9576e507be7ef"
